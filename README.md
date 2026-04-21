@@ -100,11 +100,8 @@ Se identificaron diferencias estadísticamente significativas en el desempeño d
 
 📉 El ciclo de vida de las plataformas impacta directamente las ventas
 
-💡 Impacto en la Toma de Decisiones
+<h1> 🚀 Conclusión </h1>
 
-Este análisis permite a empresas del sector:
+El análisis demuestra cómo los datos pueden transformarse en insights estratégicos que impactan directamente el negocio.
 
-Priorizar plataformas con mayor ROI
-Adaptar lanzamientos según región
-Optimizar inversión en marketing vs calidad del producto
-Detectar oportunidades en géneros emergentes
+No se trata solo de visualizar información, sino de entender qué impulsa las ventas y cómo capitalizarlo.
